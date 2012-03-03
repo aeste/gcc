@@ -1,5 +1,5 @@
 AESTE GCC Port
-=================
+==============
 This is a port of the upstream GNU compiler collection to AESTE
 platforms.
 
@@ -10,7 +10,8 @@ customisations made to the upstream code.
 
 Historical Summary
 ------------------
-* 12.02 - GCC-4.6.2 release.
+* 12.03: GCC-4.6.3 release.
+* 12.02: GCC-4.6.2 release.
 
 
 Code Organisation
@@ -32,8 +33,7 @@ this repository, make your changes and perform a pull request.
 Upstream Repository 
 ------------------- 
 This repository is a fork of the upstream SVN repository hosted at
-gcc.gnu.org
-
+svn://gcc.gnu.org/svn/gcc
 
 Reporting Bugs
 --------------
